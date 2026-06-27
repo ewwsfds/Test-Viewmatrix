@@ -1,5 +1,5 @@
 # Test-Viewmatrix
-just give the address ViewMatrix and PID and if Row major or not
+just give the View Matrix address and PID and if Row major or not
 After that an ESP with a small cirle should appear in world Center (0,0,0)
 
 
